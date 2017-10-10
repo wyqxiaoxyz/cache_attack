@@ -3,10 +3,6 @@
 // t.myProfit(1503203200,1503403200, 20)
 var now = require("performance-now")
 
-/**
- * @author NNicholas Starke
- * @link https://www.snip2code.com/Snippet/416971/JavaScript-L3-Cache-Test/
- */
 
 // Theoretically, on average there should be no difference in access times
 // in our two retrievals.  However, running this script
